@@ -2,7 +2,7 @@ scaind 1
 rerun yes
 iis yes
 lpmethod 4
-baralg 1
+baralg 2
 barcrossalg 2
 barorder 0
 THREADS=7
