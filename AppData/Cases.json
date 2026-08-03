@@ -315,6 +315,4 @@
     "ScenarioGroupId": 29235,
     "Solver": "cplex",
     "SolverOptionFile": "CPLEX",
-    "UserName": "kanors"
-  }
-]
+    "UserName": "kanors"  }]
